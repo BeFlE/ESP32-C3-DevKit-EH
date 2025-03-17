@@ -5,3 +5,5 @@ Datasheet for ESP32-C3-DevKit-EH can be found [here](https://befle.de/Datasheets
 A collection of hardware and software examples will also be created here.
 Submissions are very welcome.
 If you have any questions or comments, please feel free to create an issue here or send me an e-mail @ info@befle.de.
+
+[AMAZON](https://www.amazon.de/dp/B0DXVTX2KL?th=1)
